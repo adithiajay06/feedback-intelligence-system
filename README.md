@@ -50,7 +50,7 @@ streamlit run dashboard.py
 (Insert a screenshot of your live Streamlit dashboard here to show it off!)
 
 🎥 Project Demo
-[Link to your YouTube Demo Video]
+[ https://youtu.be/3--c2S9uHQE ]
 In this video, I demonstrate the full pipeline from data extraction to automated PDF reporting.
 
 🤝 Contact
